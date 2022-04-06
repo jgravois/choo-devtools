@@ -1,8 +1,8 @@
 {
-  "name": "choo-devtools",
+  "name": "@showrunner/choo-devtools",
   "description": "Console devtools for Choo",
   "repository": "choojs/choo-devtools",
-  "version": "3.0.4",
+  "version": "4.0.0",
   "scripts": {
     "deps": "dependency-check . && dependency-check . --extra --no-dev",
     "start": "node .",
@@ -17,7 +17,7 @@
     "on-performance": "^1.2.1",
     "plucker": "0.0.0",
     "prettier-bytes": "^1.0.4",
-    "remove-array-items": "^2.0.0",
+    "remove-array-items": "2.0.1",
     "state-copy": "^1.0.5",
     "wayfarer": "^7.0.0"
   },

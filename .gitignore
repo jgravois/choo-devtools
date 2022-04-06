@@ -5,3 +5,5 @@ dist/
 npm-debug.log*
 .DS_Store
 .nyc_output
+
+remove_array_items_test.js
